@@ -29,8 +29,8 @@ function App() {
 
   return (
     <div className="App" data-theme={theme}>
-      {/* <Connected /> */}
-      <RequestAirDrop />
+      <Connected />
+      {/* <RequestAirDrop /> */}
     </div>
   );
 }
